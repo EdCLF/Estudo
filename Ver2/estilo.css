@@ -1,0 +1,94 @@
+			ul { color:#ecfffb; }
+			
+			p {color: #ecfffb; }
+
+			h3 { color: #ecfffb ; padding: 5px 18px;}
+
+			h1 { color: rgb(75, 33, 110); }
+
+			table { 
+
+				color: #ecfffb ; 
+				text-align:center; 
+				margin-left:auto;
+				margin-right:auto;
+				padding: 5px;
+
+			 }
+
+			a { 
+				
+				margin-left: 60px;
+				color: #ecfffb;
+				font-size: 40px ;
+				text-decoration: none;
+				padding: 5px;
+				font-family: "Lucida Console", "Courier New", monospace;
+			 }
+
+			 body { 
+
+				font-family: "Lucida Console", "Courier New", monospace;
+			 	font : 18px;
+			 	margin-top: auto;
+
+			 }
+
+			#principal {
+
+				background: #323859 /* url('branco.png') center repeat-y; */
+
+			 }
+
+			 #Menu { 
+
+			 	background: #070214;
+			 	border-color: #ecfffb ;
+			 	border-width: 5px ;
+			 	border-style: outset;
+				width: 1400px;
+				margin-left: auto;
+				margin-right: auto;
+				
+			}
+
+			  /*#Info {
+
+			  	background: #323859;
+
+			   }*/
+
+			   .centralizar {
+
+			   	text-align: center
+
+			}
+			   
+			   .Corpo {
+
+				background-color: #0c0421;
+				width: 1200px;
+				margin-left: auto;
+				margin-right: auto;
+				padding: 20px;
+				
+			}
+
+			   .Flutuar {
+
+				float: left;
+				padding: 10px;
+
+			}
+
+			  /*.ajuste { 
+				border: solid 1px #ecfffb ;
+				margin-left: 100px;
+
+			   } */
+
+			  .Clear { 
+
+				clear: both;
+				
+			}
